@@ -29,8 +29,8 @@
 - Matplotlib.
 - Seaborn.
 - Plotly.
-- Sklearn.
 - Dash.
+- Sklearn.
 - Xgboost.
 - Optuna.
 
