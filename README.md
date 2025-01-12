@@ -28,8 +28,8 @@
 - Pandas.
 - Matplotlib.
 - Seaborn.
-- Sklearn.
 - Plotly.
+- Sklearn.
 - Dash.
 - Xgboost.
 - Optuna.
