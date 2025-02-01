@@ -15,7 +15,7 @@
 3. Обучить модель с наибольшей площадью под операционной кривой ROC AUC.
 4. Построить дашборд с калькулятором вероятности и основными параметрами модели.
 
-![2](https://github.com/user-attachments/assets/bffbacde-608f-467a-8949-4b58be4a4b1d)
+![2](https://github.com/user-attachments/assets/e84e3ab2-e4a7-4b4e-9ed3-2e8714ef7067)
 
 ## Файлы
 
